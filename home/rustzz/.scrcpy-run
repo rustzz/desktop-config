@@ -1,0 +1,4 @@
+pkill -9 scrcpy
+pkill -9 sndcpy
+scrcpy -f -K -M --legacy-paste --print-fps -b2M&
+sndcpy&
