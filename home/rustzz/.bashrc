@@ -8,3 +8,4 @@
 # alias ls='ls --color=auto'
 # PS1='[\u@\h \W]\$ '
 alias scrcpy="sh ./.scrcpy-run"
+export PATH="$PATH:$HOME/.apps"
