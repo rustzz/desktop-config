@@ -31,8 +31,8 @@ static const Rule rules[] = {
 	 *	WM_CLASS(STRING) = instance, class
 	 *	WM_NAME(STRING) = title
 	 */
-	/* class      instance    title       tags mask     isfloating   monitor */
-	{  },
+	/* class		instance	title	tags mask	isfloating	monitor */
+	{ "st-256color",	NULL,		NULL,	NULL,		1,		NULL },
 };
 
 /* layout(s) */
